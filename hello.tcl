@@ -7,3 +7,4 @@ puts "HELLO WORLD"
 
 puts "This file was modified by the clone"
 
+puts "This file was modified by the master"
